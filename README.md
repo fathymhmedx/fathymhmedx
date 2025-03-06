@@ -23,10 +23,10 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fathy7444&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Fathy7444&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathy7444&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
+  <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathy7444&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
 </div>
 
