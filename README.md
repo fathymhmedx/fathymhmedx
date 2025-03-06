@@ -21,13 +21,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathy-mhmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathy-mhmed&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathy-mhmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
-</div>
+### 🤖Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
----
