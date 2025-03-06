@@ -31,7 +31,3 @@
 </div>
 
 ---
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Fathy7444&icon=0&color=0)
-
-🚀 **Let's build something amazing together!**
