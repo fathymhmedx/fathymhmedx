@@ -41,6 +41,17 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 
 ---
 
+
+## 🛠 Core Skills
+- Object-Oriented Programming (OOP) 
+- Design Patterns (Singleton, Factory, Repository…) 
+- Fundamental C++ Concepts 
+- RESTful API Design
+- Database Design & Optimization (SQL & NoSQL)
+- Clean Architecture & Code Organization
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fathymhmedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
@@ -56,8 +67,9 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 - Node.js Performance Optimization & Scalability  
 - Clean Architecture & Code Organization  
 - Best Practices & Design Patterns in Backend Development  
+- Object-Oriented Programming (OOP) & Fundamental C++  
 - Exploring Advanced SQL & NoSQL Database Techniques  
-- Building RESTful APIs & Microservices with Node.js
+- Building RESTful APIs with Node.js
 
 ---
 
