@@ -52,16 +52,8 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 ---
 
 ## 🚀 Projects & Achievements
-- **E-Commerce Backend System (Node.js & MySQL)**  
-  Built a full-featured backend with RESTful APIs, authentication, role-based access, pagination, filtering, and caching.  
-
-- **Obstructive Sleep Apnea Project (Node.js & MySQL)**  
-  Developed a project to diagnose/treat OSA using Node.js, JWT authentication, and secure API practices.  
-
-- **Small Factory Database System (SQL Server)**  
-  Designed and implemented a database system with CRUD operations, reporting, and process automation.  
-
-- **Open-Source Contributions**  
-  Contributed to multiple Node.js projects on GitHub, focusing on API architecture, performance, and best practices.  
-
+- **E-Commerce Backend System (Node.js & mongoDB)**
+- 
+- **Obstructive Sleep Apnea Project (Node.js & MySQL)**
+- 
 > 🔗 Check out more projects on my [GitHub](https://github.com/fathymhmedx)
