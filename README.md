@@ -43,12 +43,12 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 
 
 ## 🛠 Core Skills
+- Fundamental C++ Concepts 
 - Object-Oriented Programming (OOP) 
 - Design Patterns (Singleton, Factory, Repository…) 
-- Fundamental C++ Concepts 
 - RESTful API Design
-- Database Design & Optimization (SQL & NoSQL)
 - Clean Architecture & Code Organization
+- Database Design & Optimization (SQL & NoSQL)
 
 ---
 
