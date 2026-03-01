@@ -80,13 +80,14 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 - Advanced SQL & NoSQL Techniques  
 - RESTful API Optimization & Security  
 
----
+---## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<div align="center">
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathymhmedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathymhmedx&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathymhmedx&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&layout=compact&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&theme=dark&layout=compact&hide_border=false&include_all_commits=false&count_private=false)
+
+</div>
