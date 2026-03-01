@@ -83,10 +83,9 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathymhmedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathymhmedx&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathymhmedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathymhmedx&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
