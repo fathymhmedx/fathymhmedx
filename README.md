@@ -80,7 +80,9 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 - Advanced SQL & NoSQL Techniques  
 - RESTful API Optimization & Security  
 
----## 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
