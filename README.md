@@ -93,61 +93,19 @@ Building a scalable <b>Enterprise ERP System</b>
 
 <br>
 
-<h2 align="center">Featured Projects</h2>
+<br>
 
-<table align="center">
-<tr>
+<h2 align="center">Contribution Snake</h2>
 
-<td width="33%" align="center">
-
-### ERP System
-
-Enterprise backend built with NestJS.
-
-**Stack**
-
-NestJS • PostgreSQL • TypeORM
-
-*Coming Soon*
-
-</td>
-
-<td width="33%" align="center">
-
-### E-Commerce API
-
-Production-ready REST API.
-
-**Stack**
-
-Express • Redis • Stripe
-
-<a href="https://github.com/fathymhmedx/nodejs-ecommerce-api-v1">Repository →</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### Express Template
-
-Reusable backend starter.
-
-**Stack**
-
-Express • TypeScript
-
-<a href="https://github.com/fathymhmedx/express-ts-api-template">Repository →</a>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="https://raw.githubusercontent.com/fathymhmedx/fathymhmedx/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 <br>
 
 <br>
 
-<h2 align="center"> Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2><br>
 <p align="center">
 
 <a href="https://github.com/fathymhmedx">
@@ -164,11 +122,6 @@ Express • TypeScript
 
 </p>
 
-<p align="center">
-
-<b> fathymhmed11@email.com</b>
-
-</p>
 
 <br>
 
