@@ -85,11 +85,10 @@ Clean Architecture
 <b>Backend</b><br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts"/>
 <br>
-<b>Database</b>
+<b>Database</b><br><br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
 <br>
-<b>Tools</b>
-
+<b>Tools</b><br><br>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
 </p>
 <br>
