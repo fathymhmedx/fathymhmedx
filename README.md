@@ -91,10 +91,6 @@ Building a scalable <b>Enterprise ERP System</b>
 </p>
 <br><br>
 
-<br>
-
-<br>
-
 <h2 align="center">Contribution Snake</h2>
 
 <p align="center">
