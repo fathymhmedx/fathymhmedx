@@ -125,7 +125,7 @@ Building a scalable <b>Enterprise ERP System</b>
 
 <br>
 
-<h2 align="center">Thanks for Visiting 👋</h2>
+<h2 align="center">Thanks for Visiting </h2>
 
 <p align="center">
 
@@ -135,5 +135,5 @@ Building a scalable <b>Enterprise ERP System</b>
 
 <p align="center">
 Thanks for checking out my profile.
-Feel free to explore my repositories, and don't forget to ⭐ the projects you find useful.
+Feel free to explore my repositories, and don't forget to the projects you find useful.
 </p>
