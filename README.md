@@ -1,95 +1,227 @@
-# Hi, I'm Fathy Mohamed 👋
-**Software Engineer | Node.js Backend Developer | Always Learning & Improving**
-
-I’m currently working as a **Backend Developer (Node.js)**, focusing on building scalable, high-performance applications, following best practices, and improving code architecture continuously.
-
----
-
-## 🌐 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18RYRDMSvn/?mibextid=wwXIfr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fathy__mhmed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathymohamed11/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fathymhmedx)
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Banner"/>
+</p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F8CFF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Node.js+%7C+NestJS;Building+Scalable+Backend+Systems;Clean+Architecture+Enthusiast"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 👋 About Me
+
+I'm **Fathy Mohamed**, a Software Engineer specializing in **Backend Development**.
+
+I enjoy building scalable backend systems, designing secure REST APIs, and writing clean, maintainable code using modern backend technologies and software engineering best practices.
+
+Currently, I'm developing an **Enterprise ERP System** with **NestJS**, focusing on authentication, authorization, clean architecture, and scalable application design.
+
+---
+
+## 🚀 Backend Expertise
+
+- RESTful API Design & Development
+- Authentication & Authorization (JWT, RBAC)
+- Refresh Token Rotation & Security Best Practices
+- Clean & Layered Architecture
+- Repository Pattern & Dependency Injection
+- PostgreSQL, MySQL & MongoDB
+- Redis Caching
+- TypeORM & Sequelize
+- Request Validation
+- API Documentation with Swagger
+- Performance Optimization
+- Scalable Enterprise Applications
+
+---
+
+# 🏢 Current Project
+
+## Enterprise ERP System
+
+A modern ERP backend built with **NestJS**, **TypeScript**, **PostgreSQL**, and **TypeORM**.
+
+### Completed
+
+- ✅ JWT Authentication
+- ✅ Refresh Token Rotation
+- ✅ Role-Based Access Control (RBAC)
+- ✅ Dynamic Permissions
+- ✅ Password Management
+- ✅ Swagger Documentation
+- ✅ Global Exception Handling
+
+### In Progress
+
+- 🔄 Employees Module
+- 🔄 Departments
+- 🔄 Positions
+- 🔄 Attendance
+
+### Planned
+
+- ⏳ Payroll
+- ⏳ Inventory
+- ⏳ Finance
+- ⏳ Reports
+
+---
+
+# ⭐ Featured Projects
+
+## 🚀 ERP System
+
+Enterprise Resource Planning Backend.
+
+**Tech Stack**
+
+`NestJS` • `PostgreSQL` • `TypeORM` • `JWT` • `RBAC`
+
+> Coming Soon
+
+---
+
+## 🛒 E-Commerce REST API
+
+A production-ready RESTful API featuring:
+
+- Authentication & Authorization
+- Redis Cache
+- Stripe Payments
+- Products & Categories
+- Orders & Coupons
+- Reviews
+
+🔗 https://github.com/fathymhmedx/nodejs-ecommerce-api-v1
+
+---
+
+## ⚙ Express TypeScript API Template
+
+A reusable backend starter template featuring:
+
+- Clean Architecture
+- Repository Pattern
+- Validation
+- Authentication
+- Error Handling
+- Dependency Injection
+
+🔗 https://github.com/fathymhmedx/express-ts-api-template
+
+---
+
+## ❤️ OPHIUC
+
+Backend API for an AI-powered Obstructive Sleep Apnea Monitoring System.
+
+Highlights:
+
+- Firebase Realtime Database
+- Socket.IO
+- AI Health Reports
+- JWT Authentication
+- Swagger Documentation
+
+🔗 https://github.com/fathymhmedx/backend_OPHIUC
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,postgres,mysql,mongodb,redis,typeorm,sequelize,docker,git,github,postman,vscode,firebase"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fathymhmedx&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=fathymhmedx&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fathymhmedx&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fathymhmedx&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced NestJS
+- System Design
+- Distributed Systems
+- Event-Driven Architecture
+- Microservices
+- Performance Optimization
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/fathymohamed11">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/fathymhmedx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/fathy__mhmed">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.facebook.com/share/18RYRDMSvn/?mibextid=wwXIfr">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Sequelize-%2300BFFF?style=for-the-badge&logo=sequelize&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-%23A1A1A1?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-%2300FFAB?style=for-the-badge&logo=supabase&logoColor=black"/>
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  
-  <!-- Frontend & UI -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-%2323C9FF?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+
+### 💡 Engineering Philosophy
+
+> **"Build software that scales, not just software that works."**
 
 ---
 
-## 🛠 Core Skills
-- RESTful API Design & Implementation (Node.js, Express.js, NestJS)  
-- Clean Architecture & Code Organization (Repository-Service-Controller Pattern)  
-- Dependency Injection, Zod & express-validator for robust validation  
-- Role-Based Authentication & JWT Security  
-- Rate Limiting & Redis Caching for performance  
-- Database Design & Optimization (SQL & NoSQL)  
-- OOP & Design Patterns (Singleton, Factory, Repository…)  
+⭐ Thanks for visiting my profile!
 
----
-
-## 🚀 Projects & Achievements
-- **[Express TypeScript API Template – Clean Architecture Boilerplate](https://github.com/fathymhmedx/express-ts-api-template)**  
-  Production-ready REST API template with database-agnostic repository layer, dependency injection, validation, and Git workflow.  
-
-- **[E-Commerce RESTful API](https://github.com/fathymhmedx/nodejs-ecommerce-api-v1)**  
-  Modular feature-based architecture with JWT authentication, Redis caching, Stripe integration, and full commerce features.  
-
-- **[Obstructive Sleep Apnea Monitoring System – Backend API](https://github.com/fathymhmedx/backend_OPHIUC)**  
-  Real-time OSA monitoring with Firebase + Socket.IO, AI-driven health reports, layered architecture, JWT security, and Swagger documentation.  
-
-> 🔗 More projects on my [GitHub](https://github.com/fathymhmedx)
-
----
-
-## ⚡ Learning & Focus
-- Advanced Node.js Performance & Scalability  
-- NestJS & Modern Backend Practices  
-- Clean Architecture & Design Patterns  
-- Advanced SQL & NoSQL Techniques  
-- RESTful API Optimization & Security  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathymhmedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathymhmedx&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&theme=dark&layout=compact&hide_border=false&include_all_commits=false&count_private=false)
+If you enjoy my work, consider starring one of my repositories.
 
 </div>
