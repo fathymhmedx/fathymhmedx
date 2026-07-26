@@ -24,11 +24,12 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
+Backend Software Engineer with a passion for designing scalable backend systems and secure REST APIs.
+</p>
 
-Backend Software Engineer passionate about building scalable backend systems.
-
-Specialized in <b>Node.js</b>, <b>NestJS</b>, <b>TypeScript</b> and modern backend architecture.
-
+<p align="center">
+I specialize in <b>Node.js</b>, <b>NestJS</b>, <b>TypeScript</b>, and modern backend architecture,
+following clean code principles and software engineering best practices.
 </p>
 
 <br>
@@ -37,15 +38,19 @@ Specialized in <b>Node.js</b>, <b>NestJS</b>, <b>TypeScript</b> and modern backe
 
 <p align="center">
 
-Building a modern <b>Enterprise ERP System</b>
-using
+Building a scalable <b>Enterprise ERP System</b>
+
 <b>NestJS • PostgreSQL • TypeORM</b>
+
 </p>
 
 <p align="center">
-Authentication &nbsp;&nbsp;|&nbsp;&nbsp;
-RBAC & Permissions &nbsp;&nbsp;|&nbsp;&nbsp;
-Clean Architecture
+
+ Authentication &nbsp;&nbsp;•&nbsp;&nbsp;
+ RBAC & Permissions &nbsp;&nbsp;•&nbsp;&nbsp;
+ Clean Architecture &nbsp;&nbsp;•&nbsp;&nbsp;
+ Scalable APIs
+
 </p>
 
 <br>
@@ -86,21 +91,59 @@ Clean Architecture
 </p>
 <br><br>
 
-<h2 align="center">GitHub Metrics</h2>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/fathymhmedx/fathymhmedx/main/github-metrics.svg" />
-</p>
-
 <br>
 
-<h2 align="center"> GitHub Activity</h2>
+<h2 align="center">Featured Projects</h2>
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fathymhmedx&theme=tokyo-night&hide_border=true"/>
+<td width="33%" align="center">
 
-</p>
+### ERP System
+
+Enterprise backend built with NestJS.
+
+**Stack**
+
+NestJS • PostgreSQL • TypeORM
+
+*Coming Soon*
+
+</td>
+
+<td width="33%" align="center">
+
+### E-Commerce API
+
+Production-ready REST API.
+
+**Stack**
+
+Express • Redis • Stripe
+
+<a href="https://github.com/fathymhmedx/nodejs-ecommerce-api-v1">Repository →</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Express Template
+
+Reusable backend starter.
+
+**Stack**
+
+Express • TypeScript
+
+<a href="https://github.com/fathymhmedx/express-ts-api-template">Repository →</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <br>
 
@@ -115,7 +158,7 @@ Clean Architecture
 <img width="48" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:fathymhmed11@email.com">
 <img width="48" src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -129,12 +172,15 @@ Clean Architecture
 
 <br>
 
-<div align="center">
+<h2 align="center">Thanks for Visiting 👋</h2>
 
-### Thanks for stopping by 👋
+<p align="center">
 
-> *"Build software that scales, not just software that works."*
+<i>"Build software that scales, not just software that works."</i>
 
-Feel free to explore my repositories and connect with me.
+</p>
 
-</div>
+<p align="center">
+Thanks for checking out my profile.
+Feel free to explore my repositories, and don't forget to ⭐ the projects you find useful.
+</p>
