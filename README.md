@@ -38,21 +38,14 @@ Specialized in <b>Node.js</b>, <b>NestJS</b>, <b>TypeScript</b> and modern backe
 <p align="center">
 
 Building a modern <b>Enterprise ERP System</b>
-
 using
-
 <b>NestJS • PostgreSQL • TypeORM</b>
-
 </p>
 
 <p align="center">
-
 Authentication &nbsp;&nbsp;|&nbsp;&nbsp;
-
 RBAC & Permissions &nbsp;&nbsp;|&nbsp;&nbsp;
-
 Clean Architecture
-
 </p>
 
 <br>
