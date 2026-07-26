@@ -82,16 +82,16 @@ Clean Architecture
 
 <p align="center">
 
-<b>Backend</b><br><br>
+<b>Backend</b><br>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts"/>
-<br>
-<b>Database</b><br><br>
+<br><br>
+<b>Database</b><br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
-<br>
-<b>Tools</b><br><br>
+<br><br>
+<b>Tools</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
 </p>
-<br>
+<br><br>
 
 <h2 align="center"> GitHub Analytics</h2>
 
