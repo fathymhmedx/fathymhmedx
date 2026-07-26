@@ -10,17 +10,96 @@
 
 ---
 
-# 👋 About Me
+## About Me
 
-I'm **Fathy Mohamed**, a Software Engineer specializing in **Backend Development**.
+I'm **Fathy Mohamed**, a Software Engineer passionate about building scalable backend systems.
 
-I enjoy building scalable backend systems, designing secure REST APIs, and writing clean, maintainable code using modern backend technologies and software engineering best practices.
+I specialize in **Node.js**, **NestJS**, and **TypeScript**, with a strong focus on clean architecture, secure REST APIs, and enterprise application development.
 
-Currently, I'm developing an **Enterprise ERP System** with **NestJS**, focusing on authentication, authorization, clean architecture, and scalable application design.
+Currently building a modern **ERP System** while continuously learning **System Design** and **Distributed Systems**.
 
 ---
 
-## 🚀 Backend Expertise
+# Current Focus
+
+I'm currently building a scalable **Enterprise ERP System** using **NestJS**, **PostgreSQL**, and **TypeORM**.
+
+The project focuses on:
+
+- Authentication & Authorization
+- RBAC & Dynamic Permissions
+- Clean Architecture
+- Secure REST APIs
+- Enterprise Backend Design
+
+> More details will be available once the project is publicly released.
+
+---
+
+<h2>✨ Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### ERP System
+
+Enterprise ERP backend built with NestJS.
+
+**Tech**
+- NestJS
+- PostgreSQL
+- TypeORM
+- JWT
+- RBAC
+
+🔗 <a href="https://github.com/fathymhmedx/ERP-System">Repository</a>
+
+</td>
+
+<td width="50%">
+
+### E-Commerce API
+
+Production-ready REST API.
+
+**Tech**
+- Express.js
+- Redis
+- Stripe
+- MySQL
+
+🔗 <a href="https://github.com/fathymhmedx/nodejs-ecommerce-api-v1">Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Express TS Template
+
+Reusable backend starter.
+
+🔗 <a href="https://github.com/fathymhmedx/express-ts-api-template">Repository</a>
+
+</td>
+
+<td>
+
+### OPHIUC
+
+Healthcare backend.
+
+🔗 <a href="https://github.com/fathymhmedx/backend_OPHIUC">Repository</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Backend Expertise
 
 - RESTful API Design & Development
 - Authentication & Authorization (JWT, RBAC)
@@ -37,99 +116,7 @@ Currently, I'm developing an **Enterprise ERP System** with **NestJS**, focusing
 
 ---
 
-# 🏢 Current Project
-
-## Enterprise ERP System
-
-A modern ERP backend built with **NestJS**, **TypeScript**, **PostgreSQL**, and **TypeORM**.
-
-### Completed
-
-- ✅ JWT Authentication
-- ✅ Refresh Token Rotation
-- ✅ Role-Based Access Control (RBAC)
-- ✅ Dynamic Permissions
-- ✅ Password Management
-- ✅ Swagger Documentation
-- ✅ Global Exception Handling
-
-### In Progress
-
-- 🔄 Employees Module
-- 🔄 Departments
-- 🔄 Positions
-- 🔄 Attendance
-
-### Planned
-
-- ⏳ Payroll
-- ⏳ Inventory
-- ⏳ Finance
-- ⏳ Reports
-
----
-
-# ⭐ Featured Projects
-
-## 🚀 ERP System
-
-Enterprise Resource Planning Backend.
-
-**Tech Stack**
-
-`NestJS` • `PostgreSQL` • `TypeORM` • `JWT` • `RBAC`
-
-> Coming Soon
-
----
-
-## 🛒 E-Commerce REST API
-
-A production-ready RESTful API featuring:
-
-- Authentication & Authorization
-- Redis Cache
-- Stripe Payments
-- Products & Categories
-- Orders & Coupons
-- Reviews
-
-🔗 https://github.com/fathymhmedx/nodejs-ecommerce-api-v1
-
----
-
-## ⚙ Express TypeScript API Template
-
-A reusable backend starter template featuring:
-
-- Clean Architecture
-- Repository Pattern
-- Validation
-- Authentication
-- Error Handling
-- Dependency Injection
-
-🔗 https://github.com/fathymhmedx/express-ts-api-template
-
----
-
-## ❤️ OPHIUC
-
-Backend API for an AI-powered Obstructive Sleep Apnea Monitoring System.
-
-Highlights:
-
-- Firebase Realtime Database
-- Socket.IO
-- AI Health Reports
-- JWT Authentication
-- Swagger Documentation
-
-🔗 https://github.com/fathymhmedx/backend_OPHIUC
-
----
-
-# 🛠 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -139,7 +126,7 @@ Highlights:
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -157,7 +144,7 @@ Highlights:
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -177,7 +164,7 @@ Highlights:
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -187,7 +174,7 @@ Highlights:
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 - Advanced NestJS
 - System Design
@@ -198,7 +185,7 @@ Highlights:
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -224,13 +211,13 @@ Highlights:
 
 <div align="center">
 
-### 💡 Engineering Philosophy
+### Engineering Philosophy
 
 > **"Build software that scales, not just software that works."**
 
 ---
 
-⭐ Thanks for visiting my profile!
+✨ Thanks for visiting my profile!
 
 If you enjoy my work, consider starring one of my repositories.
 
