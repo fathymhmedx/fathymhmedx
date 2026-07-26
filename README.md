@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="Banner"/>
 </p>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F8CFF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Node.js+%7C+NestJS;Building+Scalable+Backend+Systems;Clean+Architecture+Enthusiast"
@@ -8,31 +9,37 @@
   />
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Backend-Developer-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-2ea44f?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NestJS-TypeScript-E0234E?style=for-the-badge"/>
+
+</p>
+
 ---
 
 ## About Me
 
-I'm **Fathy Mohamed**, a Software Engineer passionate about building scalable backend systems.
+Backend Software Engineer passionate about building scalable systems and secure REST APIs.
 
-I specialize in **Node.js**, **NestJS**, and **TypeScript**, with a strong focus on clean architecture, secure REST APIs, and enterprise application development.
-
-Currently building a modern **ERP System** while continuously learning **System Design** and **Distributed Systems**.
+I mainly work with **Node.js**, **NestJS**, **TypeScript**, and **PostgreSQL**, following clean architecture principles and modern backend practices.
 
 ---
 
-# Current Focus
+## Current Focus
 
-I'm currently building a scalable **Enterprise ERP System** using **NestJS**, **PostgreSQL**, and **TypeORM**.
+Building a modern **Enterprise ERP System** using **NestJS**, **TypeScript**, and **PostgreSQL**.
 
-The project focuses on:
+Current areas of focus:
 
 - Authentication & Authorization
+- Refresh Token Rotation
 - RBAC & Dynamic Permissions
 - Clean Architecture
-- Secure REST APIs
-- Enterprise Backend Design
-
-> More details will be available once the project is publicly released.
+- Scalable Backend Design
 
 ---
 
@@ -55,10 +62,22 @@ The project focuses on:
 
 # Tech Stack
 
-<p align="center">
+<h3>Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,postgres,mysql,mongodb,redis,typeorm,sequelize,docker,git,github,postman,vscode,firebase"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts"/>
+</p>
 
+<h3>Database</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
+</p>
+
+<h3>Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
 </p>
 
 ---
@@ -67,41 +86,21 @@ The project focuses on:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fathymhmedx&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="streak"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=fathymhmedx&theme=github-dark&hide_border=true"/>
+<img height="170" src="langs"/>
 
 </p>
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fathymhmedx&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/fathymhmedx/fathymhmedx/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# Contribution Graph
+# GitHub Activity
 
 <p align="center">
 
@@ -111,35 +110,16 @@ The project focuses on:
 
 ---
 
-# Currently Learning
-
-- Advanced NestJS
-- System Design
-- Distributed Systems
-- Event-Driven Architecture
-- Microservices
-- Performance Optimization
-
----
-
 # Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/fathymohamed11">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="...">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/fathymhmedx">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://instagram.com/fathy__mhmed">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://www.facebook.com/share/18RYRDMSvn/?mibextid=wwXIfr">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+<a href="...">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
@@ -148,14 +128,10 @@ The project focuses on:
 
 <div align="center">
 
-### Engineering Philosophy
+### Thanks for stopping by 👋
 
-> **"Build software that scales, not just software that works."**
+> *"Build software that scales, not just software that works."*
 
----
-
-✨ Thanks for visiting my profile!
-
-If you enjoy my work, consider starring one of my repositories.
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
