@@ -86,16 +86,10 @@ Clean Architecture
 </p>
 <br><br>
 
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">GitHub Metrics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fathymhmedx&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=fathymhmedx&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="100%" src="https://raw.githubusercontent.com/fathymhmedx/fathymhmedx/main/github-metrics.svg" />
 </p>
 
 <br>
