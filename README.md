@@ -19,88 +19,104 @@
 
 </p>
 
----
+<br>
 
-## About Me
+<h2 align="center">About Me</h2>
 
-Backend Software Engineer passionate about building scalable systems and secure REST APIs.
+<p align="center">
 
-I mainly work with **Node.js**, **NestJS**, **TypeScript**, and **PostgreSQL**, following clean architecture principles and modern backend practices.
+Backend Software Engineer passionate about building scalable backend systems.
 
----
+Specialized in <b>Node.js</b>, <b>NestJS</b>, <b>TypeScript</b> and modern backend architecture.
 
-## Current Focus
+</p>
 
-Building a modern **Enterprise ERP System** using **NestJS**, **TypeScript**, and **PostgreSQL**.
+<br>
 
-Current areas of focus:
+<h2 align="center">Current Focus</h2>
 
-- Authentication & Authorization
-- Refresh Token Rotation
-- RBAC & Dynamic Permissions
-- Clean Architecture
-- Scalable Backend Design
+<p align="center">
 
----
+Building a modern <b>Enterprise ERP System</b>
 
-## Backend Expertise
+using
 
-- RESTful API Design & Development
-- Authentication & Authorization (JWT, RBAC)
-- Refresh Token Rotation & Security Best Practices
-- Clean & Layered Architecture
-- Repository Pattern & Dependency Injection
-- PostgreSQL, MySQL & MongoDB
-- Redis Caching
-- TypeORM & Sequelize
-- Request Validation
-- API Documentation with Swagger
-- Performance Optimization
-- Scalable Enterprise Applications
+<b>NestJS • PostgreSQL • TypeORM</b>
 
----
+</p>
 
-# Tech Stack
+<p align="center">
 
-<h3>Backend</h3>
+Authentication &nbsp;&nbsp;|&nbsp;&nbsp;
 
-<p>
+RBAC & Permissions &nbsp;&nbsp;|&nbsp;&nbsp;
+
+Clean Architecture
+
+</p>
+
+<br>
+
+<h2 align="center">Backend Expertise</h2>
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RBAC-2563EB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square"/>
+
+</p>
+
+<br>
+
+<h2 align="center"> Tech Stack</h2>
+
+<p align="center">
+
+<b>Backend</b><br><br>
+
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts"/>
-</p>
 
-<h3>Database</h3>
+<br><br>
 
-<p>
+<b>Database</b><br><br>
+
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
-</p>
 
-<h3>Tools</h3>
+<br><br>
 
-<p>
+<b>Tools</b><br><br>
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+
 </p>
 
----
+<br>
 
-# GitHub Analytics
+<h2 align="center"> GitHub Analytics</h2>
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fathymhmedx&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="stats"/>
-
-<img height="170" src="streak"/>
-
+<img height="170" src="https://streak-stats.demolab.com?user=fathymhmedx&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img height="170" src="langs"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
+<br>
 
-# GitHub Activity
+<h2 align="center"> GitHub Activity</h2>
 
 <p align="center">
 
@@ -108,23 +124,32 @@ Current areas of focus:
 
 </p>
 
----
+<br>
 
-# Connect With Me
-
+<h2 align="center"> Connect With Me</h2>
 <p align="center">
 
-<a href="...">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://github.com/fathymhmedx">
+<img width="48" src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="...">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://www.linkedin.com/in/fathymohamed11">
+<img width="48" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img width="48" src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
----
+<p align="center">
+
+<b> your@email.com</b>
+
+</p>
+
+<br>
 
 <div align="center">
 
@@ -132,6 +157,6 @@ Current areas of focus:
 
 > *"Build software that scales, not just software that works."*
 
-⭐ Feel free to explore my repositories and connect with me.
+Feel free to explore my repositories and connect with me.
 
 </div>
