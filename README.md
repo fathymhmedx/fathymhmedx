@@ -49,7 +49,8 @@ Building a scalable <b>Enterprise ERP System</b>
  Authentication &nbsp;&nbsp;•&nbsp;&nbsp;
  RBAC & Permissions &nbsp;&nbsp;•&nbsp;&nbsp;
  Clean Architecture &nbsp;&nbsp;•&nbsp;&nbsp;
- Scalable APIs
+ Scalable APIs &nbsp;&nbsp;•&nbsp;&nbsp;
+ Performance
 
 </p>
 
